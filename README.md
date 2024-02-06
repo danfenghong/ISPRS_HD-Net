@@ -7,8 +7,10 @@ ___________
 The code in this toolbox implements the ["HD-Net: High-Resolution Decoupled Network for Building Footprint Extraction via Deeply Supervised Body and Boundary Decomposition"](https://authors.elsevier.com/a/1iYW63I9x1qnCx).
 
 ![alt text](./Motivation.jpg)
-![alt text](./Workflow.jpg)
+The motivation of image-level and feature-level decoupling in building footprint extraction. 
 
+![alt text](./Workflow.jpg)
+The architecture of the proposed HD-Net.
 
 Citation
 ---------------------
