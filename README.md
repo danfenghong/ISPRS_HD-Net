@@ -19,7 +19,7 @@ Citation
 
 Yuxuan Li, Danfeng Hong, Chenyu Li, Jing Yao, Jocelyn Chanussot. HD-Net: High-Resolution Decoupled Network for Building Footprint Extraction via Deeply Supervised Body and Boundary Decomposition. ISPRS Journal of Photogrammetry and Remote Sensing, 2024, 209: 51-65. 
 
-     @article{hong2024HD,
+     @article{li2024HD,
      title={HD-Net: High-Resolution Decoupled Network for Building Footprint Extraction via Deeply Supervised Body and Boundary Decomposition},
      author={Li, Yuxuan and Hong, Danfeng and Li, Chenyu and Yao, Jing and Chanussote, Jocelyn},
      journal={ISPRS Journal of Photogrammetry and Remote Sensing},
