@@ -32,7 +32,7 @@ System-specific notes
 ---------------------
 Please refer to the file `requirements.txt` for the running environment of this code.
 
-:exclamation: The pretrained model and datasets can be downloaded from [here]([https://purl.stanford.edu/vg497cb6002](https://pan.baidu.com/s/1aQ4lpB7LVt7qECN68iE3xQ?pwd=y2a0)) with key y2a0 or [here](https://drive.google.com/drive/folders/1HyUv0fkL4tOBUXVdlTzypthLLl7sp1Ux?usp=drive_link).
+:exclamation: The pretrained model and datasets can be downloaded from [here](https://pan.baidu.com/s/1aQ4lpB7LVt7qECN68iE3xQ?pwd=y2a0) with key y2a0 or [here](https://drive.google.com/drive/folders/1HyUv0fkL4tOBUXVdlTzypthLLl7sp1Ux?usp=drive_link).
 
 :exclamation: The investigated three building datasets can be accessed from [Massachusetts](https://www.cs.toronto.edu/~vmnih/data/), [WHU](https://study.rsgis.whu.edu.cn/pages/download/building_dataset.html), [Inria](https://project.inria.fr/aerialimagelabeling/).
 
